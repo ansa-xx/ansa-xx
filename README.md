@@ -50,4 +50,4 @@
 
 ### 📫 Connect With Me
 - 📧 **anveshagirish@gmail.com**
-- 🌐 [LinkedIn](https://www.linkedin.com/in/anvesha-girish/)
+- 🌐 [LinkedIn](https://www.linkedin.com/in/anvesha-girish-a4299b270)
