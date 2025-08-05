@@ -9,7 +9,7 @@
 
 - 🔍 Passionate about analytical problem-solving and building data-driven solutions  
 - 💬 Strong background in **Machine Learning**, **Numerical Methods**, and **Optimization**  
-- 🧠 Currently working on enhancing my skills in **PyTorch** and **SQL**
+- 🧠 Currently working on enhancing my skills in **AWS** and **Docker**
 - 📚 Eager to explore projects involving **ML research**, **data analysis**, and **AI applications**
 
 --- 
@@ -30,6 +30,10 @@
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy)
 ![Scikit-learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=flat-square&logo=scikit-learn)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square&logo=matplotlib)
+![torchvision](https://img.shields.io/badge/-torchvision-EE4C2C?style=flat-square&logo=pytorch)
+![torchaudio](https://img.shields.io/badge/-torchaudio-EE4C2C?style=flat-square&logo=pytorch)
+![tqdm](https://img.shields.io/badge/-tqdm-4CAF50?style=flat-square&logo=python)
+![Librosa](https://img.shields.io/badge/-Librosa-1DB954?style=flat-square&logo=python)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
