@@ -42,8 +42,8 @@
 ### 📈 GitHub Stats
 
 ![Anvesha's GitHub stats](https://github-readme-stats.vercel.app/api?username=ansa-xx&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ansa-xx&layout=compact&theme=tokyonight)
 ![GitHub Streak](https://streak-stats.demolab.com?user=ansa-xx&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ansa-xx&layout=compact&theme=tokyonight)
 
 ---
 
